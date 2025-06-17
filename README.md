@@ -1,4 +1,6 @@
 # Phylogenomic timetree-calibrated speciation clocks for _Caenorhabditis_ nematodes reveal slow but disproportionate accumulation of post-zygotic reproductive isolation
 Supplementary data files of _Caenorhabditis_ divergence time and speciation clock calculations from Fusca et al. (2025). "_C._ sp. 24" refers to _C. agridulce_ throughout.
-
+## Description of files
+### 205 Single Copy Ortholog Alignments
+Directory of DNA coding sequence alignments for the 205 groups of orthologous genes that are single-copy in all 51 species used for our primary divergence time estimates. Each file contains one sequence for each of the 51 species. These 205 FASTA files are subdivided into four non-overlapping sets, corresponding to the four gene subsets shown on Figure 2D. Species are referred to using 5-letter abbreviations (e.g. "CELEG" for _C. elegans_).
 
