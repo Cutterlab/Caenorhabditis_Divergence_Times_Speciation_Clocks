@@ -23,3 +23,6 @@ Directory of dated phylogeny files, in NEXUS format. <b>All branch lengths are i
 <li><b>alternate_topology_3_partition_3_51_orthologs_gamma_priors_relaxed_clock_species_tree.tree</b>: Divergence time estimates produced using the 51 genes in Set 3 of the 205 single-copy genes and alternate tree topology #3 (green dots in Figure 2F). </li>
 <li><b>alternate_topology_4_partition_3_51_orthologs_gamma_priors_relaxed_clock_species_tree.tree</b>: Divergence time estimates produced using the 51 genes in Set 3 of the 205 single-copy genes and alternate tree topology #4 (purple dots in Figure 2F). </li>
 </ul>
+
+### BEAST XML Input Files
+Directory of XML files used as input for runs of BEAST. Each XML input file corresponds to the BEAST run for one of the sets of divergence times listed above.
