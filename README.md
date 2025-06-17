@@ -26,3 +26,5 @@ Directory of dated phylogeny files, in NEXUS format. <b>All branch lengths are i
 
 ### BEAST XML Input Files
 Directory of XML files used as input for runs of BEAST. Each XML input file corresponds to the BEAST run for one of the sets of divergence times listed above.
+### run_Ka_Ks_pipeline.sh
+Bash script used to calculate K<sub>A</sub> and K<sub>S</sub> for all 1:1 orthologs between a given pair of species. This script makes use of a file of known orthologs between the species pair that must be made beforehand, as well as files of the DNA coding sequences for each species. This script depends on the programs PRANK, Seqtk, and HYPHY. The command-line input to run this script are the abbreviated names and full names for both species being compared; for example, to calculate K<sub>A</sub> and K<sub>S</sub> at 1:1 orthologs between _C. elegans_ and _C. briggsae_, the command is "sh run_Ka_Ks_pipeline.sh CELEG Caenorhabditis_elegans CBRIG Caenorhabditis_briggsae".
