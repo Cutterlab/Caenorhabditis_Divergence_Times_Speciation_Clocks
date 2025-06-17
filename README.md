@@ -10,4 +10,8 @@ Directory of dated phylogeny files, in NEXUS format. All branch lengths are in u
 
 <ul>
 <li><b>205_orthologs_gamma_priors_relaxed_clock_species_tree.tree</b>: The primary set of divergence time estimates (i.e. those shown in Figure 1), using the 205 single-copy ortholog groups and our primary ASTRAL tree topology. </li>
+<li><b>partition_1_51_orthologs_gamma_priors_relaxed_clock_species_tree.tree</b>: Divergence time estimates produced using the 51 genes in Set 1 of the 205 single-copy ortholog groups (shown in Figure 2D) and our primary ASTRAL tree topology. </li>
+<li><b>partition_2_51_orthologs_gamma_priors_relaxed_clock_species_tree.tree</b>: Divergence time estimates produced using the 51 genes in Set 2 of the 205 single-copy ortholog groups (shown in Figure 2D) and our primary ASTRAL tree topology. </li>
+<li><b>partition_3_51_orthologs_gamma_priors_relaxed_clock_species_tree.tree</b>: Divergence time estimates produced using the 51 genes in Set 3 of the 205 single-copy ortholog groups (shown in Figure 2D) and our primary ASTRAL tree topology. </li>
+<li><b>partition_4_52_orthologs_gamma_priors_relaxed_clock_species_tree.tree</b>: Divergence time estimates produced using the 52 genes in Set 4 of the 205 single-copy ortholog groups (shown in Figure 2D) and our primary ASTRAL tree topology. </li>
 </ul>
