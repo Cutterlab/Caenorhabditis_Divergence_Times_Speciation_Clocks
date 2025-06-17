@@ -7,3 +7,7 @@ Directory of DNA coding sequence alignments for the 205 groups of orthologous ge
 Directory of DNA coding sequence alignments for the 692 groups of orthologous genes that are single-copy in the 31 species belonging to the Elegans supergroup clade, out of the 51 species that were used for our primary divergence time estimates (i.e. not including _C. niphades_). Each file contains one sequence for each of these 31 species. These 692 FASTA files are subdivided into four non-overlapping sets, corresponding to the four gene subsets shown in Figure 2E. Species are referred to using 5-letter abbreviations (e.g. "CELEG" for _C. elegans_).
 ### Dated Species Trees
 Directory of dated phylogeny files, in NEXUS format. All branch lengths are in units of generations x 10<sup>7</sup> (i.e. tens of millions of generations). In addition to the tree topology and all branch lengths, these phylogeny files also contain branch labels and node labels produced by BEAST (e.g. 95% HPD intervals for node ages and branch relative substitution rates).
+
+<ul>
+<li><b>205_orthologs_gamma_priors_relaxed_clock_species_tree.tree</b>: The primary set of divergence time estimates (i.e. those shown in Figure 1), using the 205 single-copy ortholog groups and our primary ASTRAL tree topology. </li>
+</ul>
