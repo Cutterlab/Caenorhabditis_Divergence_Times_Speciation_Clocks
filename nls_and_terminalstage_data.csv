@@ -1,0 +1,264 @@
+species_combo,cross_type,div_time_mya,div_time_mya_adjusted,div_time_mgens,div_time_mgens_adjusted,div_time_mgens_nocons,F1_RI,F2_RI,premating_RI,prezyg_RI,postzyg_RI,terminal_stage,fertility_f,fertility_m,F1_stage
+nouraguensis-nouraguensis,conspecific,0,0,0,0,,0,0.325,0,0,0,adult,,,0
+tropicalis-tropicalis,conspecific,0,0.021,0,0.21,,0,0.235,0,0,0,adult,,,0
+brenneri-brenneri,conspecific,0,3.519,0,35.19,,0.218,0.005,0,0,0.000,adult,,,0
+elegans-elegans,conspecific,0,0.008,0,0.08,,0,0.064,0,0,0,adult,,,0
+remanei-remanei,conspecific,0,1.18,0,11.8,,0,0,0,0,0,adult,,,0
+afra-becei,heterospecific,49.206,49.206,492.06,492.06,492.06,1,1,0,0,1,emb,,,3
+afra-brenneri,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+afra-briggsae,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+afra-doughertyi,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+afra-elegans,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+afra-imperialis,heterospecific,56.779,56.779,567.79,567.79,567.79,1,1,,,,ambig_emb,,,3.5
+afra-macrosperma,heterospecific,49.206,49.206,492.06,492.06,492.06,1,1,,,,ambig_emb,,,3.5
+afra-nigoni,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+afra-nouraguensis,heterospecific,49.206,49.206,492.06,492.06,492.06,1,1,,,,ambig_emb,,,3.5
+afra-panamensis,heterospecific,49.206,49.206,492.06,492.06,492.06,1,1,,1,,no fert,,,4
+afra-remanei,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+afra-sinica,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+afra-sulstoni,heterospecific,20.462,20.462,204.62,204.62,204.62,1,1,0,0,1,emb,,,3
+afra-wallacei,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+angaria-castelli,heterospecific,9.585,9.585,95.85,95.85,95.85,1,1,0,0,1,sterile_adult,1,1,1
+angaria-dolens,heterospecific,47.755,47.755,477.55,477.55,477.55,1,1,,1,,no fert,,,4
+angaria-quiockensis,heterospecific,47.755,47.755,477.55,477.55,477.55,1,1,,1,,no fert,,,4
+astrocarya-dolens,heterospecific,109.553,109.553,1095.53,1095.53,1095.53,1,1,,1,,no fert,,,4
+astrocarya-guadeloupensis,heterospecific,109.471,109.471,1094.71,1094.71,1094.71,1,1,,1,,no fert,,,4
+becei-afra,heterospecific,49.206,49.206,492.06,492.06,492.06,1,1,,1,,no fert,,,4
+becei-guadeloupensis,heterospecific,99.223,99.223,992.23,992.23,992.23,1,1,,1,,no fert,,,4
+becei-imperialis,heterospecific,56.779,56.779,567.79,567.79,567.79,1,1,,1,,no fert,,,4
+becei-japonica,heterospecific,56.779,56.779,567.79,567.79,567.79,1,1,,1,,no fert,,,4
+becei-macrosperma,heterospecific,38.685,38.685,386.85,386.85,386.85,1,1,0,0,1,emb,,,3
+becei-nouraguensis,heterospecific,9.77,9.77,97.7,97.7,97.7,1,1,0,0,1,sterile_adult,1,1,1
+becei-panamensis,heterospecific,31.117,31.117,311.17,311.17,311.17,1,1,,1,,no fert,,,4
+becei-remanei,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,0,0,1,emb,,,3
+becei-sp25,heterospecific,56.779,56.779,567.79,567.79,567.79,1,1,0,0,1,emb,,,3
+becei-waitukubuli,heterospecific,31.117,31.117,311.17,311.17,311.17,1,1,0,0,1,emb,,,3
+becei-yunquensis,heterospecific,19.177,19.177,191.77,191.77,191.77,1,1,0,0,1,emb,,,3
+brenneri-afra,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+brenneri-becei,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,1,,no fert,,,4
+brenneri-briggsae,heterospecific,47.288,47.288,472.88,472.88,472.88,1,1,0,0,1,larvae,,,2
+brenneri-doughertyi,heterospecific,36.852,36.852,368.52,368.52,368.52,1,1,0,0,1,emb,,,3
+brenneri-elegans,heterospecific,53.028,53.028,530.28,530.28,530.28,1,1,0,0,1,emb,,,3
+brenneri-inopinata,heterospecific,53.028,53.028,530.28,530.28,530.28,1,1,0,0,1,emb,,,3
+brenneri-kamaaina,heterospecific,64.549,64.549,645.49,645.49,645.49,1,1,0,0,1,emb,,,3
+brenneri-macrosperma,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+brenneri-nigoni,heterospecific,47.288,47.288,472.88,472.88,472.88,1,1,0,0,1,emb,,,3
+brenneri-nouraguensis,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+brenneri-panamensis,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,0,0,1,emb,,,3
+brenneri-remanei,heterospecific,47.288,47.288,472.88,472.88,472.88,1,1,0,0,1,emb,,,3
+brenneri-sinica,heterospecific,47.288,47.288,472.88,472.88,472.88,1,1,0,0,1,emb,,,3
+brenneri-wallacei,heterospecific,36.852,36.852,368.52,368.52,368.52,1,1,0,0,1,emb,,,3
+briggsae-afra,heterospecific,71.302,71.302,713.02,713.02,713.02,,,0,0.5,,,,,
+briggsae-brenneri,heterospecific,47.288,47.288,472.88,472.88,472.88,,,0,0.5,,,,,
+briggsae-elegans,heterospecific,53.028,53.028,530.28,530.28,530.28,1,1,0,1,,no fert,,,4
+briggsae-inopinata,heterospecific,53.028,53.028,530.28,530.28,530.28,1,1,1,1,,no fert,,,4
+briggsae-latens,heterospecific,42.735,42.735,427.35,427.35,427.35,,,0,0.5,,,,,
+briggsae-nigoni,heterospecific,5.705,5.705,57.05,57.05,57.05,0.934,1,0,0.5,0.934,sterile_adult,0.76,1,0
+briggsae-portoensis,heterospecific,109.553,109.553,1095.53,1095.53,1095.53,,,0,0.5,,,,,
+briggsae-remanei,heterospecific,42.735,42.735,427.35,427.35,427.35,1,1,0,1,,no fert,,,4
+briggsae-sinica,heterospecific,32.378,32.378,323.78,323.78,323.78,1,1,0,0.5,,ambig_emb,,,3.5
+briggsae-tropicalis,heterospecific,47.288,47.288,472.88,472.88,472.88,1,1,,,,ambig_emb,,,3.5
+briggsae-wallacei,heterospecific,47.288,47.288,472.88,472.88,472.88,1,1,0,0,1,emb,,,3
+castelli-angaria,heterospecific,9.585,9.585,95.85,95.85,95.85,1,1,0,0,1,sterile_adult,1,1,1
+castelli-dolens,heterospecific,47.755,47.755,477.55,477.55,477.55,1,1,0,0,1,emb,,,3
+castelli-quiockensis,heterospecific,47.755,47.755,477.55,477.55,477.55,1,1,,1,,no fert,,,4
+dolens-angaria,heterospecific,47.755,47.755,477.55,477.55,477.55,1,1,,1,,no fert,,,4
+dolens-astrocarya,heterospecific,109.553,109.553,1095.53,1095.53,1095.53,1,1,0,0,1,emb,,,3
+dolens-castelli,heterospecific,47.755,47.755,477.55,477.55,477.55,1,1,,1,,no fert,,,4
+dolens-quiockensis,heterospecific,10.555,10.555,105.55,105.55,105.55,1,1,,1,,no fert,,,4
+doughertyi-afra,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+doughertyi-brenneri,heterospecific,36.852,36.852,368.52,368.52,368.52,1,1,0,0,1,emb,,,3
+doughertyi-briggsae,heterospecific,47.288,47.288,472.88,472.88,472.88,1,1,0,0,1,larvae,,,2
+doughertyi-elegans,heterospecific,53.028,53.028,530.28,530.28,530.28,1,1,,,,ambig_emb,,,3.5
+doughertyi-imperialis,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+doughertyi-macrosperma,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+doughertyi-nigoni,heterospecific,47.288,47.288,472.88,472.88,472.88,1,1,0,0,1,emb,,,3
+doughertyi-nouraguensis,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+doughertyi-remanei,heterospecific,47.288,47.288,472.88,472.88,472.88,1,1,0,0,1,emb,,,3
+doughertyi-sinica,heterospecific,47.288,47.288,472.88,472.88,472.88,1,1,0,0,1,emb,,,3
+doughertyi-wallacei,heterospecific,33.616,33.616,336.16,336.16,336.16,1,1,0,0,1,emb,,,3
+drosophilae-sp2,heterospecific,8.44,8.44,84.4,84.4,84.4,1,1,,,,ambig_emb,,,3.5
+elegans-afra,heterospecific,71.302,71.302,713.02,713.02,713.02,,,0,0.5,,,,,
+elegans-brenneri,heterospecific,53.028,53.028,530.28,530.28,530.28,,,0,0.5,,,,,
+elegans-briggsae,heterospecific,53.028,53.028,530.28,530.28,530.28,1,1,0,1,,no fert,,,4
+elegans-imperialis,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+elegans-inopinata,heterospecific,42.758,42.758,427.58,427.58,427.58,1,1,0.5,1,,no fert,,,4
+elegans-kamaaina,heterospecific,64.549,64.549,645.49,645.49,645.49,1,1,,,,ambig_emb,,,3.5
+elegans-latens,heterospecific,53.028,53.028,530.28,530.28,530.28,,,0,0.5,,,,,
+elegans-nigoni,heterospecific,53.028,53.028,530.28,530.28,530.28,,,0,0.5,,,,,
+elegans-portoensis,heterospecific,109.553,109.553,1095.53,1095.53,1095.53,,,0,0.5,,,,,
+elegans-remanei,heterospecific,53.028,53.028,530.28,530.28,530.28,1,1,0,1,,no fert,,,4
+elegans-sinica,heterospecific,53.028,53.028,530.28,530.28,530.28,1,1,0,0.5,,ambig_emb,,,3.5
+elegans-tropicalis,heterospecific,53.028,53.028,530.28,530.28,530.28,1,1,,,,ambig_emb,,,3.5
+elegans-wallacei,heterospecific,53.028,53.028,530.28,530.28,530.28,1,1,0,0,1,emb,,,3
+guadeloupensis-astrocarya,heterospecific,109.471,109.471,1094.71,1094.71,1094.71,1,1,,1,,no fert,,,4
+guadeloupensis-becei,heterospecific,99.223,99.223,992.23,992.23,992.23,1,1,,1,,no fert,,,4
+guadeloupensis-inopinata,heterospecific,99.223,99.223,992.23,992.23,992.23,1,1,1,1,,no fert,,,4
+guadeloupensis-panamensis,heterospecific,99.223,99.223,992.23,992.23,992.23,1,1,,1,,no fert,,,4
+imperialis-afra,heterospecific,56.779,56.779,567.79,567.79,567.79,1,1,0,0,1,emb,,,3
+imperialis-becei,heterospecific,56.779,56.779,567.79,567.79,567.79,1,1,0,0,1,emb,,,3
+imperialis-briggsae,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+imperialis-doughertyi,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,0,0,1,emb,,,3
+imperialis-elegans,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,0,0,1,emb,,,3
+imperialis-kamaaina,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+imperialis-macrosperma,heterospecific,56.779,56.779,567.79,567.79,567.79,1,1,0,0,1,emb,,,3
+imperialis-nouraguensis,heterospecific,56.779,56.779,567.79,567.79,567.79,1,1,,,,ambig_emb,,,3.5
+imperialis-panamensis,heterospecific,56.779,56.779,567.79,567.79,567.79,1,1,0,0,1,emb,,,3
+imperialis-wallacei,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,0,0,1,emb,,,3
+imperialis-yunquensis,heterospecific,56.779,56.779,567.79,567.79,567.79,1,1,,,,ambig_emb,,,3.5
+inopinata-brenneri,heterospecific,53.028,53.028,530.28,530.28,530.28,1,1,0,1,,no fert,,,4
+inopinata-briggsae,heterospecific,53.028,53.028,530.28,530.28,530.28,1,1,0,1,,no fert,,,4
+inopinata-elegans,heterospecific,42.758,42.758,427.58,427.58,427.58,1,1,0.5,1,,no fert,,,4
+inopinata-guadeloupensis,heterospecific,99.223,99.223,992.23,992.23,992.23,1,1,0,1,,no fert,,,4
+inopinata-remanei,heterospecific,53.028,53.028,530.28,530.28,530.28,1,1,0,1,,no fert,,,4
+inopinata-sp50,heterospecific,,,,,,1,1,1,1,,no fert,,,4
+japonica-becei,heterospecific,56.779,56.779,567.79,567.79,567.79,1,1,,1,,no fert,,,4
+japonica-panamensis,heterospecific,56.779,56.779,567.79,567.79,567.79,1,1,,1,,no fert,,,4
+japonica-sinica,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+kamaaina-brenneri,heterospecific,64.549,64.549,645.49,645.49,645.49,1,1,0,0,1,emb,,,3
+kamaaina-elegans,heterospecific,64.549,64.549,645.49,645.49,645.49,1,1,,,,ambig_emb,,,3.5
+kamaaina-imperialis,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+kamaaina-macrosperma,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+kamaaina-nouraguensis,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,0,0,1,emb,,,3
+kamaaina-oiwi,heterospecific,9.981,9.981,99.81,99.81,99.81,1,1,,,,ambig_emb,,,3.5
+kamaaina-remanei,heterospecific,64.549,64.549,645.49,645.49,645.49,1,1,0,0,1,emb,,,3
+kamaaina-wallacei,heterospecific,64.549,64.549,645.49,645.49,645.49,1,1,0,0,1,emb,,,3
+kamaaina-yunquensis,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+latens-remanei,heterospecific,4.963,4.963,49.63,49.63,49.63,0.445,0.949,0,0,0.445,adult,0,0.083,0
+macrosperma-afra,heterospecific,49.206,49.206,492.06,492.06,492.06,1,1,,,,ambig_emb,,,3.5
+macrosperma-becei,heterospecific,38.685,38.685,386.85,386.85,386.85,1,1,,1,,no fert,,,4
+macrosperma-brenneri,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+macrosperma-briggsae,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+macrosperma-doughertyi,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+macrosperma-elegans,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+macrosperma-imperialis,heterospecific,56.779,56.779,567.79,567.79,567.79,1,1,,,,ambig_emb,,,3.5
+macrosperma-kamaaina,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+macrosperma-nigoni,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+macrosperma-nouraguensis,heterospecific,38.685,38.685,386.85,386.85,386.85,1,1,,,,ambig_emb,,,3.5
+macrosperma-panamensis,heterospecific,38.685,38.685,386.85,386.85,386.85,1,1,,1,,no fert,,,4
+macrosperma-remanei,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+macrosperma-sinica,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+macrosperma-tropicalis,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+macrosperma-waitukubuli,heterospecific,38.685,38.685,386.85,386.85,386.85,1,1,,1,,no fert,,,4
+macrosperma-wallacei,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+macrosperma-yunquensis,heterospecific,38.685,38.685,386.85,386.85,386.85,1,1,,,,ambig_emb,,,3.5
+nigoni-brenneri,heterospecific,47.288,47.288,472.88,472.88,472.88,1,1,0,0.5,,ambig_emb,,,3.5
+nigoni-briggsae,heterospecific,5.705,5.705,57.05,57.05,57.05,0.711,1,0,0,0.711,sterile_adult,0.66,1,0
+nigoni-doughertyi,heterospecific,47.288,47.288,472.88,472.88,472.88,1,1,0,0,1,emb,,,3
+nigoni-elegans,heterospecific,53.028,53.028,530.28,530.28,530.28,1,1,0,,,ambig_emb,,,3.5
+nigoni-macrosperma,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+nigoni-nouraguensis,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+nigoni-remanei,heterospecific,42.735,42.735,427.35,427.35,427.35,1,1,0,0.5,,ambig_emb,,,3.5
+nigoni-sinica,heterospecific,32.378,32.378,323.78,323.78,323.78,1,1,0,0,1,emb,,,3
+nigoni-wallacei,heterospecific,47.288,47.288,472.88,472.88,472.88,1,1,,,,ambig_emb,,,3.5
+nigoni-zanzibari,heterospecific,32.378,32.378,323.78,323.78,323.78,1,1,0,0,1,emb,,,3
+nouraguensis-afra,heterospecific,49.206,49.206,492.06,492.06,492.06,1,1,,,,ambig_emb,,,3.5
+nouraguensis-becei,heterospecific,9.77,9.77,97.7,97.7,97.7,1,1,0,0,1,emb,,,3
+nouraguensis-brenneri,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+nouraguensis-briggsae,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+nouraguensis-doughertyi,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+nouraguensis-elegans,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+nouraguensis-imperialis,heterospecific,56.779,56.779,567.79,567.79,567.79,1,1,,,,ambig_emb,,,3.5
+nouraguensis-kamaaina,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+nouraguensis-macrosperma,heterospecific,38.685,38.685,386.85,386.85,386.85,1,1,,,,ambig_emb,,,3.5
+nouraguensis-nigoni,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+nouraguensis-panamensis,heterospecific,31.117,31.117,311.17,311.17,311.17,1,1,,1,,no fert,,,4
+nouraguensis-remanei,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+nouraguensis-sinica,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+nouraguensis-tropicalis,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+nouraguensis-waitukubuli,heterospecific,31.117,31.117,311.17,311.17,311.17,1,1,,1,,no fert,,,4
+nouraguensis-wallacei,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+nouraguensis-yunquensis,heterospecific,19.177,19.177,191.77,191.77,191.77,1,1,0,0,1,emb,,,3
+oiwi-kamaaina,heterospecific,9.981,9.981,99.81,99.81,99.81,1,1,,,,ambig_emb,,,3.5
+panamensis-afra,heterospecific,49.206,49.206,492.06,492.06,492.06,1,1,,1,,no fert,,,4
+panamensis-becei,heterospecific,31.117,31.117,311.17,311.17,311.17,1,1,0,0,1,emb,,,3
+panamensis-brenneri,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,0,0,1,emb,,,3
+panamensis-guadeloupensis,heterospecific,99.223,99.223,992.23,992.23,992.23,1,1,,1,,no fert,,,4
+panamensis-imperialis,heterospecific,56.779,56.779,567.79,567.79,567.79,1,1,,1,,no fert,,,4
+panamensis-japonica,heterospecific,56.779,56.779,567.79,567.79,567.79,1,1,0,0,1,emb,,,3
+panamensis-macrosperma,heterospecific,38.685,38.685,386.85,386.85,386.85,1,1,,1,,no fert,,,4
+panamensis-nouraguensis,heterospecific,31.117,31.117,311.17,311.17,311.17,1,1,0,0,1,emb,,,3
+panamensis-remanei,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,0,0,1,emb,,,3
+panamensis-sp25,heterospecific,56.779,56.779,567.79,567.79,567.79,1,1,0,0,1,emb,,,3
+panamensis-waitukubuli,heterospecific,23.005,23.005,230.05,230.05,230.05,1,1,,1,,no fert,,,4
+panamensis-yunquensis,heterospecific,31.117,31.117,311.17,311.17,311.17,1,1,0,0,1,emb,,,3
+portoensis-vivipara,heterospecific,,,,,,1,1,,1,,no fert,,,4
+quiockensis-angaria,heterospecific,47.755,47.755,477.55,477.55,477.55,1,1,,1,,no fert,,,4
+quiockensis-castelli,heterospecific,47.755,47.755,477.55,477.55,477.55,1,1,,1,,no fert,,,4
+quiockensis-dolens,heterospecific,10.555,10.555,105.55,105.55,105.55,1,1,0,0,1,emb,,,3
+remanei-afra,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+remanei-becei,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,1,,no fert,,,4
+remanei-brenneri,heterospecific,47.288,47.288,472.88,472.88,472.88,1,1,0,0.5,,ambig_emb,,,3.5
+remanei-briggsae,heterospecific,32.378,32.378,323.78,323.78,323.78,1,1,0,0,1,sterile_adult,,,1
+remanei-doughertyi,heterospecific,47.288,47.288,472.88,472.88,472.88,1,1,0,0,1,emb,,,3
+remanei-elegans,heterospecific,53.028,53.028,530.28,530.28,530.28,1,1,0,0,1,emb,,,3
+remanei-inopinata,heterospecific,53.028,53.028,530.28,530.28,530.28,1,1,0,1,,no fert,,,4
+remanei-kamaaina,heterospecific,64.549,64.549,645.49,645.49,645.49,1,1,0,0,,emb,,,3
+remanei-latens,heterospecific,4.963,4.963,49.63,49.63,49.63,0.601,0.997,0,0,0.601,adult,0,0.940,0
+remanei-macrosperma,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+remanei-nigoni,heterospecific,42.735,42.735,427.35,427.35,427.35,1,1,0,0.5,,ambig_emb,,,3.5
+remanei-nouraguensis,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+remanei-panamensis,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,1,,no fert,,,4
+remanei-sinica,heterospecific,42.735,42.735,427.35,427.35,427.35,1,1,0,0,1,emb,,,3
+remanei-wallacei,heterospecific,47.288,47.288,472.88,472.88,472.88,1,1,,,,ambig_emb,,,3.5
+remanei-zanzibari,heterospecific,42.735,42.735,427.35,427.35,427.35,1,1,0,0,1,emb,,,3
+sinica-afra,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+sinica-brenneri,heterospecific,47.288,47.288,472.88,472.88,472.88,1,1,0,0,1,emb,,,3
+sinica-briggsae,heterospecific,32.378,32.378,323.78,323.78,323.78,1,1,0,0,1,sterile_adult,1,,1
+sinica-doughertyi,heterospecific,47.288,47.288,472.88,472.88,472.88,1,1,0,0,1,emb,,,3
+sinica-elegans,heterospecific,53.028,53.028,530.28,530.28,530.28,1,1,,,,ambig_emb,,,3.5
+sinica-japonica,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+sinica-macrosperma,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+sinica-nigoni,heterospecific,32.378,32.378,323.78,323.78,323.78,1,1,0,0,1,larvae,,,2
+sinica-nouraguensis,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+sinica-remanei,heterospecific,42.735,42.735,427.35,427.35,427.35,1,1,0,0,1,emb,,,3
+sinica-tribulationis,heterospecific,20.517,20.517,205.17,205.17,205.17,1,1,0,0,1,emb,,,3
+sinica-wallacei,heterospecific,47.288,47.288,472.88,472.88,472.88,1,1,,,,ambig_emb,,,3.5
+sinica-zanzibari,heterospecific,20.517,20.517,205.17,205.17,205.17,1,1,0,0,1,larvae,,,2
+sp25-becei,heterospecific,56.779,56.779,567.79,567.79,567.79,1,1,0,0,1,emb,,,3
+sp25-panamensis,heterospecific,56.779,56.779,567.79,567.79,567.79,1,1,,1,,no fert,,,4
+sp2-drosophilae,heterospecific,8.44,8.44,84.4,84.4,84.4,1,1,,,,ambig_emb,,,3.5
+sp50-inopinata,heterospecific,,,,,,1,1,1,1,,no fert,,,4
+sulstoni-afra,heterospecific,20.462,20.462,204.62,204.62,204.62,1,1,0,0,1,emb,,,3
+tribulationis-sinica,heterospecific,20.517,20.517,205.17,205.17,205.17,1,1,0,0,1,larvae,,,2
+tribulationis-zanzibari,heterospecific,17.419,17.419,174.19,174.19,174.19,1,1,0,0,1,larvae,,,2
+tropicalis-afra,heterospecific,71.302,71.302,713.02,713.02,713.02,,,0,0.5,,,,,
+tropicalis-brenneri,heterospecific,36.852,36.852,368.52,368.52,368.52,,,0,0.5,,,,,
+tropicalis-briggsae,heterospecific,47.288,47.288,472.88,472.88,472.88,1,1,,,,ambig_emb,,,3.5
+tropicalis-elegans,heterospecific,53.028,53.028,530.28,530.28,530.28,1,1,,,,ambig_emb,,,3.5
+tropicalis-latens,heterospecific,47.288,47.288,472.88,472.88,472.88,,,0,0,,,,,
+tropicalis-nigoni,heterospecific,47.288,47.288,472.88,472.88,472.88,,,0,0.5,,,,,
+tropicalis-portoensis,heterospecific,109.553,109.553,1095.53,1095.53,1095.53,1,1,1,1,,no fert,,,4
+tropicalis-remanei,heterospecific,47.288,47.288,472.88,472.88,472.88,,,0,0,,,,,
+tropicalis-sinica,heterospecific,47.288,47.288,472.88,472.88,472.88,,,0,0.5,,,,,
+vivipara-portoensis,heterospecific,,,,,,1,1,,1,,no fert,,,4
+waitukubuli-becei,heterospecific,31.117,31.117,311.17,311.17,311.17,1,1,0,0,1,emb,,,3
+waitukubuli-macrosperma,heterospecific,38.685,38.685,386.85,386.85,386.85,1,1,0,0,1,emb,,,3
+waitukubuli-nouraguensis,heterospecific,31.117,31.117,311.17,311.17,311.17,1,1,0,0,1,emb,,,3
+waitukubuli-panamensis,heterospecific,23.005,23.005,230.05,230.05,230.05,1,1,0,0,1,emb,,,3
+waitukubuli-yunquensis,heterospecific,31.117,31.117,311.17,311.17,311.17,1,1,0,0,1,emb,,,3
+wallacei-afra,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+wallacei-brenneri,heterospecific,36.852,36.852,368.52,368.52,368.52,1,1,0,0,1,emb,,,3
+wallacei-briggsae,heterospecific,47.288,47.288,472.88,472.88,472.88,1,1,0,0,1,emb,,,3
+wallacei-doughertyi,heterospecific,33.616,33.616,336.16,336.16,336.16,1,1,0,0,1,emb,,,3
+wallacei-elegans,heterospecific,53.028,53.028,530.28,530.28,530.28,1,1,,,,ambig_emb,,,3.5
+wallacei-imperialis,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,0,0,1,emb,,,3
+wallacei-kamaaina,heterospecific,64.549,64.549,645.49,645.49,645.49,1,1,0,0,1,emb,,,3
+wallacei-macrosperma,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+wallacei-nigoni,heterospecific,47.288,47.288,472.88,472.88,472.88,1,1,0,0,1,emb,,,3
+wallacei-nouraguensis,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,,,,ambig_emb,,,3.5
+wallacei-remanei,heterospecific,47.288,47.288,472.88,472.88,472.88,1,1,0,0,1,emb,,,3
+wallacei-sinica,heterospecific,47.288,47.288,472.88,472.88,472.88,1,1,0,0,1,emb,,,3
+wallacei-tropicalis,heterospecific,22.128,22.128,221.28,221.28,221.28,1,1,0,0,1,emb,,,3
+yunquensis-afra,heterospecific,49.206,49.206,492.06,492.06,492.06,1,1,,,,ambig_emb,,,3.5
+yunquensis-becei,heterospecific,19.177,19.177,191.77,191.77,191.77,1,1,0,0,1,emb,,,3
+yunquensis-kamaaina,heterospecific,71.302,71.302,713.02,713.02,713.02,1,1,0,0,1,emb,,,3
+yunquensis-macrosperma,heterospecific,38.685,38.685,386.85,386.85,386.85,1,1,0,0,1,emb,,,3
+yunquensis-nouraguensis,heterospecific,19.177,19.177,191.77,191.77,191.77,1,1,0,0,1,emb,,,3
+yunquensis-panamensis,heterospecific,31.117,31.117,311.17,311.17,311.17,1,1,,1,,no fert,,,4
+yunquensis-waitukubuli,heterospecific,31.117,31.117,311.17,311.17,311.17,1,1,,1,,no fert,,,4
+zanzibari-briggsae,heterospecific,32.378,32.378,323.78,323.78,323.78,1,1,0,0,1,sterile_adult,,,1
+zanzibari-sinica,heterospecific,20.517,20.517,205.17,205.17,205.17,1,1,0,0,1,larvae,,,2
+zanzibari-tribulationis,heterospecific,17.419,17.419,174.19,174.19,174.19,1,1,0,0,1,emb,,,3
+zanzibari-nigoni,heterospecific,32.378,32.378,323.78,323.78,323.78,1,1,0,0,1,emb,,,3
+zanzibari-remanei,heterospecific,42.735,42.735,427.35,427.35,427.35,1,1,0,0,1,emb,,,3
