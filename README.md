@@ -36,3 +36,11 @@ File of 3130 gene trees from IQ-TREE that were used as input to ASTRAL-Pro3 to c
 Newick tree file of the ASTRAL-Pro3 species tree for the 13 species in the Japonica group (including _C. niphades_), as well as _C. elegans_ and _C. briggsae_ which were rooted as the outgroup. Node labels indicate posterior probabilities. Branch lengths are in units of amino acid substitutions per site.
 ### niphades_Japonica_Group_Single_Copy_BUSCO_Gene_Trees.tree
 File of 3128 gene trees from IQ-TREE that were used as input to ASTRAL-Pro3 to create niphades_Japonica_group_ASTRAL_tree.nwk. Each line corresponds to a separate gene tree. Prior to running ASTRAL-Pro3, all gene names were replaced with the name of the corresponding species. Branch lengths are in units of amino acid substitutions per site.
+### nls_and_terminalstage_data.csv
+File containing information used to generate logistic function fits for reproductive isolation and regression analyses for latest viable stage of F1 hybrids.
+### Literature_RI_data.csv
+File containing citations for reproductive isolation estimates obtained from the literature.
+### nls_script.R
+R script used to generate logistic function fits for components of reproductive isolation. Includes algorithm used to identify the maximum number of phylogenetically-independent species pairs that could be included in each model. 
+### terminalstage_stats.R
+R script used to run regression analysis on the latest viable stage of F1 hybrids from interspecies crosses. Includes algorithm used to select the maximum number of phylogenetically independent species for this analysis.
